@@ -1,6 +1,15 @@
 # distance_finder
 ## This application finds the distance from the Moscow Ring Road to the specified address
 
+## How to run
+```sh
+# install the required packages
+>>> pip install -r requirements.txt 
+
+# run the flask application
+>>> flask run
+```
+
 ![output](output.png?raw=true "Output")
 
 
